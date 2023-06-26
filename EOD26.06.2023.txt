@@ -1,0 +1,13 @@
+Para çekme işlemi: 26.06.2023 18:35:39***Ahmet KÖSE***out:500***balance:4500
+Para yatırma işlemi: 26.06.2023 18:36:23***Ahmet KÖSE***out:250***balance:4250
+Para yatırma işlemi: 26.06.2023 18:45:25***Ali CEYLAN***out:1500***balance:1500
+Para çekme işlemi: 26.06.2023 18:45:52***Ali CEYLAN***out:250***balance:1250
+Kullanıcı Olustur: 26.06.2023 18:46:59/Mert XXX:123
+Para yatırma işlemi: 26.06.2023 18:48:57***Ali CEYLAN***out:5000***balance:6250
+Rapor bastır: 26.06.2023 18:49:56
+Para yatırma işlemi: 26.06.2023 18:50:00***Mert XXX***out:5000***balance:5000
+Kullanıcı Olustur: 26.06.2023 18:50:38/Ahmedii AASSGH:123
+Kullanıcı Olustur: 26.06.2023 18:50:51/Khasseem Fa:123
+Para yatırma işlemi: 26.06.2023 18:57:15***Mert XXX***out:5000***balance:5000
+Para yatırma işlemi: 26.06.2023 18:57:53***Mert XXX***out:1000***balance:6000
+Para çekme işlemi: 26.06.2023 19:01:47***Ahmedii AASSGH***out:500***balance:-500
